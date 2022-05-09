@@ -8,7 +8,7 @@
 </p>
 
 # Sobre 
-<p>A proposta desse projeto está em desenvolver <u>apenas</u> a estrutura de repetição básica para construção de um respirador com arduino (movimentos repetivos de ida e volta).</p>
+<p>A proposta desse projeto está em desenvolver <b>apenas</b> a estrutura de repetição básica para construção de um respirador com arduino (movimentos repetitivos de ida e volta).</p>
 
 <p> Com o avanço do COVID-19, sabemos que algumas das complicações mais frequentes na evolução dos casos são: insuficiência respiratória, síndrome da angústia respiratória do adulto, choque séptico, insuficiência renal, coagulação intravascular disseminada e pericardite.  (FONTE: <a href="https://www.gov.br/saude/pt-br/coronavirus">saude.gov</a>).
 
