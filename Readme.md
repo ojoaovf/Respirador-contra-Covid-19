@@ -1,4 +1,4 @@
-<h1 ali gn ="center"> Respirador com Arduino contra o Covid-19 </h1>
+<h1 align ="center"> Respirador com Arduino contra o Covid-19 </h1>
 
 <p align="center"> •
 <a href="#sobre">Sobre</a> •
